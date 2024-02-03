@@ -1,0 +1,12 @@
+Se ha generado un cambio: Nueva Alta paciente:l especialidad:  sede:a 2023-08-01 09:38:01.338832
+Se ha generado un cambio: Nueva Alta paciente:Jose especialidad:Pediatria sede:Centro 2023-08-02 09:12:42.286098
+Se ha generado un cambio: Nueva Alta paciente:Lucas especialidad:Clínica sede:Norte 2023-08-10 15:47:12.047513
+Se ha generado un cambio: Nueva Alta paciente:María especialidad:Oftalmología sede:Centro 2023-08-10 15:50:14.866759
+Se ha generado un cambio: Nueva Alta paciente:Maria especialidad:Oftalmologia sede:Centro 2023-08-10 15:50:26.196315
+Se ha generado un cambio: Registro Eliminado paciente:dsfdf especialidad:sfsfd sede:sdf 2023-08-10 15:52:06.117600
+Se ha generado un cambio: Nueva Alta paciente:Horacio especialidad:Neurología sede:Norte 2023-08-10 15:54:01.391682
+Se ha generado un cambio: Registro Modificado paciente:Horacio especialidad:Neurología sede:Norte 2023-08-10 15:54:09.194478
+Se ha generado un cambio: Registro Eliminado paciente: especialidad: sede: 2023-08-10 15:54:14.223546
+Se ha generado un cambio: Nueva Alta paciente:Lucia especialidad:Pediatria sede:Centro 2023-08-10 15:55:54.890061
+Se ha generado un cambio: Nueva Alta paciente:Julieta especialidad:Ginecologia sede:Norte 2023-08-10 16:11:00.290374
+Se ha generado un cambio: Nueva Alta paciente:Christian especialidad:Fisioterapia sede:Norte 2023-08-14 15:15:47.432299
